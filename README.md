@@ -1,4 +1,4 @@
-# 🚀 LMS: Modern Full-Stack Learning Management System
+# 🚀 Learning-Portal: Modern Full-Stack Learning Management System
 
 **Welcome to EduCore-LMS!** This is a modern, end-to-end web application designed to be the central hub for educational institutions. It provides intuitive, isolated portals for students, teachers, and administrators to streamline course management, facilitate video learning, and simplify the assessment process. Built with efficiency and scalability in mind, EduCore-LMS offers a seamless digital learning experience.
 
@@ -82,4 +82,57 @@ EduCore-LMS/
 Follow these instructions to get a local copy up and running.
 
 1. Clone the repository
+   
+```text
+git clone [https://github.com/your-username/Learning-Portal.git](https://github.com/your-username/Learning-Portal.git)
+cd Learning-Portal
+```
+---
 
+2. Configure Backend
+Open a terminal and navigate to the backend directory:
+
+```text
+cd Backend
+npm install
+```
+
+Create a .env file in the Backend folder with the following variables:
+
+```text
+node server.js
+# Or use nodemon: npm run dev
+```
+
+3. Configure Frontend
+Open a new terminal window and navigate to the frontend directory:
+
+```text
+cd frontend
+npm install
+```
+
+Start the Vite development server:
+
+```text
+npm run dev
+```
+
+4. Access the Application
+Open your browser and navigate to http://localhost:5173.
+(Ensure your backend is running simultaneously on http://localhost:5000)
+
+---
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+
+Fork the Project
+
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+
+Push to the Branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
