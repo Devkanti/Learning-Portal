@@ -54,7 +54,7 @@ The application provides tailor-made, secure experiences based on user roles:
 The project follows a clean, decoupled Client/Server architecture:
 
 ```text
-EduCore-LMS/
+Learning-Portal/
 ├── Backend/                    # Node.js / Express Server
 │   ├── models/                 # MongoDB Schemas (User.js, Course.js, Submission.js)
 │   ├── routes/                 # API Endpoints (auth.js, courses.js, admin.js)
