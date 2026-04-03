@@ -75,3 +75,11 @@ EduCore-LMS/
     │       └── Login.jsx       # Authentication entry point
     ├── tailwind.config.js      # Tailwind theme and utility configuration
     └── vite.config.js          # Vite build settings
+
+---
+
+⚙️ Local Installation & Setup
+Follow these instructions to get a local copy up and running.
+
+1. Clone the repository
+
