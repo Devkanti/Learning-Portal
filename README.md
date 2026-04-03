@@ -1,4 +1,4 @@
-# 🚀 EduCore-LMS: Modern Full-Stack Learning Management System
+# 🚀 LMS: Modern Full-Stack Learning Management System
 
 **Welcome to EduCore-LMS!** This is a modern, end-to-end web application designed to be the central hub for educational institutions. It provides intuitive, isolated portals for students, teachers, and administrators to streamline course management, facilitate video learning, and simplify the assessment process. Built with efficiency and scalability in mind, EduCore-LMS offers a seamless digital learning experience.
 
@@ -75,7 +75,7 @@ EduCore-LMS/
     │       └── Login.jsx       # Authentication entry point
     ├── tailwind.config.js      # Tailwind theme and utility configuration
     └── vite.config.js          # Vite build settings
-
+```
 ---
 
 ⚙️ Local Installation & Setup
