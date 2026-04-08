@@ -1,6 +1,18 @@
+# Dependencies
 node_modules/
 Backend/node_modules/
 Frontend/node_modules/
+
+# Environment files (VERY IMPORTANT)
+.env
+Backend/.env
+Frontend/.env
+
+# Uploads / user files
+Backend/uploads/
+
+# Logs & misc
 *.log
 *.zip
 *.mp4
+.DS_Store
